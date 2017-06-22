@@ -1,0 +1,73 @@
+.menu{
+	background-color: white;
+
+}
+.menuButton{
+	color: black !important;
+	width: 25%;
+    text-align: center;
+    font-size:14px;
+
+}
+.content{
+	margin-top:50px;
+}
+
+.heading{
+	color:white;
+}
+
+.circletag {
+    display: block;
+    width: 100px;
+    height: 100px;
+    background: #E6E7ED;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;    
+    text-align:center;
+    margin: 0 auto;
+}
+
+.circletag img{
+    margin-top:7px;
+    width:100px;
+}
+.firsSection{
+    min-height:500px;
+    margin:0 auto;
+    text-align:center;
+}
+.firstColor{
+     background-color:#90ECF2;
+}
+.secondColor{
+
+}
+.thirdColor{
+
+}
+fourthColor{
+
+}
+
+.firsSection > div {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 45%;
+    transform: translateY(-50%);
+}
+
+.aboutPara{
+    margin-top:105px;
+    margin-left:100px;
+    margin-right:100px;
+    color:"white";
+    font-size: 18px;
+}
+.customWell{
+    width:150px;
+    padding:13px !important;
+    margin:10px 0;
+
+}
