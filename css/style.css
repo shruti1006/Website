@@ -1,6 +1,12 @@
 body{
 	padding-top:40px;
 }
+.carouselItem{
+    background-color:#eee;
+    min-height:300px;
+    padding:10px;
+
+}
 .menu{
 	background-color: white;
 
